@@ -1,0 +1,8 @@
+android_app {
+	name: "CustomApp",
+	srcs: ["src/**/*.java"],
+	resource_dirs: ["res"],
+	platform_apis: true,
+	certificate: "platform",
+	
+}
