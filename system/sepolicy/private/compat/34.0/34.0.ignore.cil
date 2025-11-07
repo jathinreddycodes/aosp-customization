@@ -1,0 +1,5 @@
+(typeattributeset public_type hello_service)
+(typeattributeset public_type FuelService)
+(typeattributeset public_type CustomBatteryService)
+(typeattributeset public_type CustomEngineService)
+# Ensures services are being recognized in backward-compatablity.
