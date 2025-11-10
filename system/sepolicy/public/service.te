@@ -348,3 +348,5 @@ type FuelService,		    system_api_service, service_manager_type;
 type CustomBatteryService,	    system_api_service, service_manager_type;
 type CustomEngineService,	    system_api_service, service_manager_type;
 #declares a selinux type		marks it system api service that will be managed by serviceManager;
+type CarFuelService,		     system_api_service, service_manager_type;
+
