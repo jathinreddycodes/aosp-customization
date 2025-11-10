@@ -1550,3 +1550,4 @@ allow system_server FuelService:service_manager find;
 allow system_server CustomBatteryService:service_manager find;
 allow system_server CustomEngineService:service_manager find;
 # allow the service to be used when we get the service.
+allow system_server CarFuelService:service_manager find;

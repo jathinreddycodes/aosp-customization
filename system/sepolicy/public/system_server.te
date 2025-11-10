@@ -22,3 +22,6 @@ allow system_server FuelService:service_manager add;
 allow system_server CustomBatteryService:service_manager add;
 allow system_server CustomEngineService:service_manager add;
 # permisson to register the service in ServiceManager.
+
+allow system_server CarFuelService:service_manager add;
+

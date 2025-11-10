@@ -447,3 +447,4 @@ Fuel					  u:object_r:FuelService:s0
 CustomBattery				  u:object_r:CustomBatteryService:s0
 EngineService				  u:object_r:CustomEngineService:s0
 # mapping binder name EngineService to selinux type CustomEngineService.
+CarFuel 				  u:object_r:CarFuelService:s0

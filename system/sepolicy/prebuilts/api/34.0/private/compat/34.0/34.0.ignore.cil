@@ -3,3 +3,5 @@
 (typeattributeset public_type CustomBatteryService)
 (typeattributeset public_type CustomEngineService)
 # Ensures services are being recognized in backward-compatablity.
+
+(typeattributeset public_type CarFuelService)
