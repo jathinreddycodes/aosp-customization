@@ -1,0 +1,8 @@
+android_app{
+	name : "EngineApp",
+	srcs : ["src/**/*.java"],
+	resource_dirs : ["res"],
+	platform_apis : true,
+	certificate   : "platform",
+	static_libs   : ["androidx-constraintlayout_constraintlayout"],
+}
